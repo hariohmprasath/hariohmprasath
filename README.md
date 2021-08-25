@@ -13,4 +13,4 @@ I am a Senior Modernization Architect in [Amazon Web Services](www.aws.com). I f
 
 Before joining Amazon, I was a Principal Software engineer at FICO, responsible for leading the architecture and development of various enterprise banking solutions like [Originations manager](https://www.fico.com/en/products/fico-origination-manager), [LiquidCredit](https://www.fico.com/en/products/fico-small-business-scoring-service) and [Strategy Director](https://www.fico.com/en/products/fico-strategy-director).
 
-You can get to know about me in my personal [website](www.hariohmprasath.com)
+You can get to know about me in my personal [website](http://www.hariohmprasath.com)
