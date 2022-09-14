@@ -17,3 +17,6 @@ I work as a Senior Software Engineer for [Elastic Beanstalk](https://aws.amazon.
 Before joining Amazon, I was a Principal Software engineer at FICO, responsible for leading the architecture and development of various enterprise banking solutions like [Originations manager](https://www.fico.com/en/products/fico-origination-manager), [LiquidCredit](https://www.fico.com/en/products/fico-small-business-scoring-service) and [Strategy Director](https://www.fico.com/en/products/fico-strategy-director).
 
 You can get to know about me in my personal [website](http://www.hariohmprasath.com)
+
+![GitHub Stats Card](https://github-readme-stats.vercel.app/api?username=hariohmprasath&show_icons=true)
+![Top Languages Card](https://github-readme-stats.vercel.app/api/top-langs/?username=hariohmprasath&layout=compact)
